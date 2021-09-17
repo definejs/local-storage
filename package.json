@@ -1,7 +1,7 @@
 {
   "name": "@definejs/local-storage",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "针对应用层可以保持数据类型的本地存储类。",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
